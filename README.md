@@ -1,3 +1,3 @@
-# Html-Final-Project [Patika](patika.dev)  için hazırlandı.
+# Html-Final-Project [Patika](https://www.patika.dev)  için hazırlandı.
 
 HTML dersleri bölüm sonu çalışması.
